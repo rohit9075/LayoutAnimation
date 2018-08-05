@@ -81,6 +81,6 @@ public class MainActivity extends AppCompatActivity {
         valueAnimator.setDuration(duration);
         valueAnimator.start();
     }
-    
+
 
 }
