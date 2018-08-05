@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
         mFirst = findViewById(R.id.linearLayout_first);
         mSecond = findViewById(R.id.linearLayout_second);
-        mFirst.measure(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
 
 
     }
